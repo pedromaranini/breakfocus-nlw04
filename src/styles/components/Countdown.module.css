@@ -64,6 +64,21 @@
     transition: background-color 0.2s;
 }
 
+.countdownButton img {
+    padding-left: 1rem;
+}
+
+.countdownButton > div {
+    width: 380px;
+    height: 4px;
+
+    position: absolute;
+
+    margin-top: 70px;
+
+    background: var(--green);
+}
+
 .countdownButton:not(:disabled):hover {
     background: var(--blue-dark);
 }
