@@ -3,16 +3,16 @@
 <p align="center"><img alt="breakfocus" src="https://i.ibb.co/QfCXK7B/Captura-de-tela-de-2021-03-05-19-06-30.png"></p>
 
 <h2>💻 PROJECT<h2>
-###<strong>Breakfocus<strong/>, project is based on <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">The Pomodoro Technique®</a>. A game for who spend a lot of time in computer. Developed at the Developed at the <a href="https://nextlevelweek.com/">Next Level Week #4</a>, this is front end application.
+<h4><strong>Breakfocus<strong/>, project is based on <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">The Pomodoro Technique®</a>. A game for who spend a lot of time in computer. Developed at the Developed at the <a href="https://nextlevelweek.com/">Next Level Week #4</a>, this is front end application.</h4>
 
 <h2>🚀 TECHNOLOGIES</h2>
-<p>This project was developed with the following technologies:</p>
+<h4>This project was developed with the following technologies:</h4>
 <ul>
 <li><a href="https://nextjs.org/" rel="nofollow">Next.js</a></li>
 </ul>
     
 <h2>🔖 LAYOUT</h2>
-<p>Access the application layout in the <a href="https://www.figma.com/file/DS3hYfTIzPaCzrl7RnG608/Move.it-1.0">web</a> version.</p>
+<h4>Access the application layout in the <a href="https://www.figma.com/file/DS3hYfTIzPaCzrl7RnG608/Move.it-1.0">web</a> version.</h4>
 
 <h2>👨🏽‍💻 TO USE <h2/>
  
