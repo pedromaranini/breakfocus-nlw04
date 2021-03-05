@@ -2,11 +2,12 @@
 
 <p align="center"><img alt="breakfocus" src="https://i.ibb.co/QfCXK7B/Captura-de-tela-de-2021-03-05-19-06-30.png"></p>
 
+<hr>
 
 <h2>💻 PROJECT<h2>
-    
 <h4>Breakfocus, project is based on <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">The Pomodoro Technique®</a>. A game for who spend a lot of time in computer. Developed at the Developed at the <a href="https://nextlevelweek.com/">Next Level Week #4</a>, this is front end application.</h4>
 
+<hr>
 
 <h2>🚀 TECHNOLOGIES</h2>
 
@@ -15,11 +16,13 @@
 <li><a href="https://nextjs.org/" rel="nofollow">Next.js</a></li>
 </ul>
     
+<hr>
     
 <h2>🔖 LAYOUT</h2>
 
 <h4>Access the application layout in the <a href="https://www.figma.com/file/DS3hYfTIzPaCzrl7RnG608/Move.it-1.0">web</a> version.</h4>
 
+<hr>
 
 <h2>👨🏽‍💻 TO USE <h2/>
  
@@ -37,5 +40,6 @@ $ yarn dev <br/>
 </pre>
 </div>
 
+<hr>
 
 <h4 align="center">done with :heart: by <a href="https://www.linkedin.com/in/pedromaranini30/">Maranini</a> during the Next Level Week 4</h4>
