@@ -3,8 +3,7 @@
 <p align="center"><img alt="breakfocus" src="https://i.ibb.co/QfCXK7B/Captura-de-tela-de-2021-03-05-19-06-30.png"></p>
 
 <h2>💻 PROJECT<h2>
- 
-<p>Breakfocus, project based on <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">The Pomodoro Technique®</a>. A game for who spend a lot of time in computer. Developed at the <a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #4</a>, this is the frontend application.</p>
+<p><strong>Breakfocus</strong>, project based on <a href="https://francescocirillo.com/pages/pomodoro-technique" rel="nofollow">The Pomodoro Technique®</a>. A game for who spend a lot of time in computer. Developed at the <a href="https://nextlevelweek.com/" rel="nofollow">Next Level Week #4</a>, this is the frontend application.</p>
 
 <h2>🚀 TECHNOLOGIES</h2>
 <p>This project was developed with the following technologies:</p>
